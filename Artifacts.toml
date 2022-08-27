@@ -1,0 +1,288 @@
+[[R2R]]
+arch = "aarch64"
+git-tree-sha1 = "e6090592679b746caec228fea34a8b9590098590"
+os = "macos"
+
+    [[R2R.download]]
+    sha256 = "0dbad921db95b3187ef9d69f1591760eedcbc230800bf47528d4520ba9cc78c7"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.aarch64-apple-darwin.tar.gz"
+[[R2R]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d69d7665217f1f13d8ce7ad910d3d11e7bce97a5"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "44033d37d26ec82b6863c2edb05955db277ffe763292bd237aba487327ad4686"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.aarch64-linux-gnu-cxx03.tar.gz"
+[[R2R]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "157bf1952bf14d3d3f5fa1a41ac0b28f116b0f0c"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "93cf45597f81b775c5ca97913244de41123d0a741bb66dec9706bd826a7d464e"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.aarch64-linux-gnu-cxx11.tar.gz"
+[[R2R]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37853f1a432916e2a90379f82eae680ba19ee9ec"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "6f76f168a9e2f16255f9f15aea1993b6f4c08157314eff8d5d14286c1a53bd4b"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.aarch64-linux-musl-cxx03.tar.gz"
+[[R2R]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7dee7b277ee42dd79a2b6b4a4dde361bf3a551e2"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "8db5384bb94e68687bd9bbb38bdb9cd03e7fad2fe597b5a88e9b19f0ff837830"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.aarch64-linux-musl-cxx11.tar.gz"
+[[R2R]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f13e829c52a08c932dd19b046e991147dc4cac89"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "fc77c32c09c5f393c598e15f22bdd9b8271e3574903d495735b1b67063ad3726"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[R2R]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a5f8d4d9d98aa663430156c1632a1d555790b8a"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "1d4bca2c07143db7e9a32552e916f652c0e19fb4e3ca0472b5ea55f9d8007f09"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[R2R]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cc97ff2ccb6e1cc87477456f0bfb113b1f1ee22e"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "dc046188c995a27c11f5ea1fef948457794575ff28bca66b5ece427e34347ebd"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[R2R]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9af062de1d93ec958ae02cd9921002a4de5ad390"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "5b5caa0fe703a1d2ce706d3a39ac41760bb5f753341b6a1d9186913802f4225f"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[R2R]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a36349ffbc2db31a9d3174ab633fe93f3e90d202"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "ccc3d116b168d9c64d50912875f749470356a84d924f6a517c73aed93b78759c"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[R2R]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c6d5f2d63958d88bd5de8b85a6ceba3a3482a301"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "606b4766d249008e4bd4885d7eee0f1ad97066e2397f79d75ebf2911d9802cc0"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[R2R]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa8239a1db71a8337782a85fffc72b043dc9f1f4"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "023c06ad7bb303adf541864a9c858df937b6b0c6f278a06d6071e6c08e9c3662"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[R2R]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "163bb676929d0575e470d6d63143928df3c115c5"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "05cec51bf489f442c8f02cd24fcc827c0cce46a5203f65c2225aa62799e5bb54"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[R2R]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "05e3a0232267b54dd3784e8fcf77db21fb6904d0"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "61b1c5a407733a47044e8808f1cbfb2dff66ad4d0ab3685dac70968bba045bcc"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.i686-linux-gnu-cxx03.tar.gz"
+[[R2R]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc409aef4727ed465a769bf934d6160a35d5cb35"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "f12ada40d9909abf417f63756d81ff58fe393f950cef969e6243c53b35ad8882"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.i686-linux-gnu-cxx11.tar.gz"
+[[R2R]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eaf24ce5184eada0507b5e1de0afd9df45aa9e4a"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "a0399555402e398c77d0b9c21b36caa2690dcbf24d99474c5d88e5dfb9846643"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.i686-linux-musl-cxx03.tar.gz"
+[[R2R]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55855b1f66981c5f416f1b6e44452892e74555c0"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "88e3a200be19675c7329403dbe24cd56f966beea0a2661552913e7eafe0e2a31"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.i686-linux-musl-cxx11.tar.gz"
+[[R2R]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d068a574c49277d6228fe45837f04470dac92853"
+os = "windows"
+
+    [[R2R.download]]
+    sha256 = "11177a4468fa026cb2aa10a698ed6e9def32a0c5abec02bc59fb1ea48bbb6b67"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.i686-w64-mingw32-cxx03.tar.gz"
+[[R2R]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da6bd568e34dc3bca24778eb3388afafdff765e1"
+os = "windows"
+
+    [[R2R.download]]
+    sha256 = "2bb6d9382ee298ca3baadf37b16bf83870a29ad6dd6d83aa158163da48b30bfb"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.i686-w64-mingw32-cxx11.tar.gz"
+[[R2R]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5749adeb88e1a9c16915971026afbe80a5fc0f9d"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "c7443247def2a8d552a3cc20ed381b8e8a97fc87b060ba6c436f2d3bccadacc9"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[R2R]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f02dd5707adb73ff94de3e8c7af414e836460fe1"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "d22bf6d55e885471e5169998b24d93732e8622cba23a5ae97362a161c672d46e"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[R2R]]
+arch = "x86_64"
+git-tree-sha1 = "f3420b95189f1194a074e5441656d51520594cfd"
+os = "macos"
+
+    [[R2R.download]]
+    sha256 = "b965120ee3248d24c08eec93f86903c01d383454b95231a57fc0c47418140b83"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-apple-darwin.tar.gz"
+[[R2R]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9430c227307260da1ee781fcf355b2ce43869609"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "9ad8b21e18e7f8fe4fbd551999eac818b24af3f8ea796d70857f2e8be940f5b1"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-linux-gnu-cxx03.tar.gz"
+[[R2R]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e6fb216878586c8f0020121c093c3ebb3f24d7d3"
+libc = "glibc"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "d9cfcd4d9c9a6df9cc02c08f78e8c43f99388ffbae37dd832a638dfc6729bfc4"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-linux-gnu-cxx11.tar.gz"
+[[R2R]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb843e9a329b56232a7736b57485e74d241fb1ba"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "1c1f3bfce3118684c253a9c8fe4827b10ce30241da4ab4b1f1ba4fb0cc98d4f3"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-linux-musl-cxx03.tar.gz"
+[[R2R]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9270f0b4aef2548367fb6dabcb35b6a40881f68"
+libc = "musl"
+os = "linux"
+
+    [[R2R.download]]
+    sha256 = "04ccd10317ffd4e1ab1ac140729259f9c91d48b06e11f9ebbe2593ee337942cf"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-linux-musl-cxx11.tar.gz"
+[[R2R]]
+arch = "x86_64"
+git-tree-sha1 = "8eff62ac3180103644ba82a89efc2ee042e4e222"
+os = "freebsd"
+
+    [[R2R.download]]
+    sha256 = "f32236d3c82fbe9b9ba243c2437a0500cb3aecec1fbc43f3b11164a18ba5d671"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-unknown-freebsd.tar.gz"
+[[R2R]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "79e6e910115c15fa73ab1908a69e4b7ea4aa8e6a"
+os = "windows"
+
+    [[R2R.download]]
+    sha256 = "9b93ae44bdc67a1049e6ccbdc7b01d7e4afd846722fb3c01afb54890ef24e097"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-w64-mingw32-cxx03.tar.gz"
+[[R2R]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f43707fa11579804fe4af20d8e378fca10151b6f"
+os = "windows"
+
+    [[R2R.download]]
+    sha256 = "c1142852ed0eec3371fd7306395cb18f0ad40bcdbefcf2057d4cd33b85c39bfb"
+    url = "https://github.com/JuliaBinaryWrappers/R2R_jll.jl/releases/download/R2R-v1.0.6+0/R2R.v1.0.6.x86_64-w64-mingw32-cxx11.tar.gz"
